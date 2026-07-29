@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.clickMe,
+.clickMeTwo {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.clickMe {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.clickMeTwo {
+    background-color:yellow;
+}
